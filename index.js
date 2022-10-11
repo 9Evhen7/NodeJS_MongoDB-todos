@@ -4,7 +4,8 @@ const exphb = require("express-handlebars");
 const todoRoutes = require("./routes/todos");
 const path = require("path");
 
-const PORT = process.env.PORT || 3000;
+// const PORT = process.env.PORT || 3000;
+const PORT = "https://9evhen7.github.io/NodeJS_mongodb_app/";
 
 const app = express();
 const hbs = exphb.create({
