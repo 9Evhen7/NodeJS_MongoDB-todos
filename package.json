@@ -1,6 +1,8 @@
 {
-  "name": "firstnodepr",
+  "name": "NodeJS_mongodb_app",
   "version": "1.0.0",
+  "private": true,
+  "homepage": "ttps://9evhen7.github.io/NodeJS_mongodb_app/",
   "description": "",
   "main": "index.js",
   "scripts": {
